@@ -43,6 +43,7 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 * Added player own ped to inv
 * Edited .css a lot.
 * Couple things edited to client.lua
+Updates coming..
 
 #![sdev_inv](https://user-images.githubusercontent.com/95856241/185098175-b384b6c6-b00d-4c95-a0d4-de2fff6f3cdb.png)
 
