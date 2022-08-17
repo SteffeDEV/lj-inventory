@@ -1,12 +1,12 @@
 ![LJ Inventory](https://i.imgur.com/1HM4GVB.png)
 
-# Burn One Studios CSS edit of lj-inventory used with QBCore Framework, We made this!
+# S DEV CSS edit of lj-inventory used with QBCore Framework, We made this! (Orginal edit from Burn One Studios)
 
 Are you looking for High Quality FiveM Scripts or Need help starting a server? 
 
-Join Burn One Studios today!
+Join SDEV today!
 <br>
-https://discord.gg/Th4zzn5KHA
+https://discord.gg/py3gB99vcK
 
 Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to reach out
 
@@ -39,25 +39,24 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 * Text overflow ellipsis used (so your product titles with never overlap the containers and instead do "...")
 * Blurred inventory background
 * Elements of NoPixel 3.5 design ideas interwoven
-#
+
+# Edits By @Steffe#9910
+
+* Added player own ped to inv
+* Edited .css a lot.
+* Couple things edited to client.lua
+
+#![sdev_inv](https://user-images.githubusercontent.com/95856241/185098175-b384b6c6-b00d-4c95-a0d4-de2fff6f3cdb.png)
+
 
 # Previews
-### simple guideline psd provided (found in main directory lj-inventory)
-![lj-inventory Guideline](https://user-images.githubusercontent.com/91661118/146315681-c67f542d-e2bc-43ca-9957-7f1971b84268.png)
-### full inventory
-![full inventory](https://i.imgur.com/lLJZfwE.png)
-### options menu
-![options menu](https://i.imgur.com/SHgOdyb.png)
-### help box
-![help box](https://i.imgur.com/x703mpZ.png)
-### hotbar slots
-![hotbar slots](https://i.imgur.com/UERoBDI.png)
-### used & removed itembox 
-![used & removed itembox](https://i.imgur.com/JXXLuXL.png)
+![sdev_inv2](https://user-images.githubusercontent.com/95856241/185098188-ee775cb8-de44-4ac1-98d0-b9668a7f1129.png)
+
 
 # Credits
 * loljoshie for doing whatever changes he made + UI Overhaul
+* BurnOneStudios https://github.com/Burn-One-Studios/lj-inventory (They made couple edits for this.
 * ihyajb (Aj) for [original version](https://github.com/ihyajb/aj-inventory)
 
 # Issues and Suggestions
-Please use the GitHub issues system to report issues or make suggestions, when making suggestion, please keep [Suggestion] in the title to make it clear that it is a suggestion.
+Dm me on discord @Steffe#9910
