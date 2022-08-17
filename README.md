@@ -1,6 +1,6 @@
 # S DEV CSS edit of lj-inventory used with QBCore Framework, We made this! (Orginal edit from Burn One Studios)
 
-Are you looking for High Quality FiveM Scripts or Need help starting a server? 
+Are you looking for good dev community?
 
 Join SDEV today!
 <br>
