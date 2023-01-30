@@ -2,7 +2,7 @@
 
 Are you looking for good dev community?
 
-Join SDEV today!
+Join SDEV today! If you want to see SDEV-Inv2.0
 <br>
 https://discord.gg/Z5ZBmj4nba
 
