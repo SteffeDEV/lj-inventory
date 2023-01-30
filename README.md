@@ -4,7 +4,7 @@ Are you looking for good dev community?
 
 Join SDEV today!
 <br>
-https://discord.gg/py3gB99vcK
+https://discord.gg/Z5ZBmj4nba
 
 Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to reach out
 
