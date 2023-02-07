@@ -1,3 +1,9 @@
+** DO NOT USE**
+
+
+
+
+
 # S DEV CSS edit of lj-inventory used with QBCore Framework, We made this! (Orginal edit from Burn One Studios)
 
 Are you looking for good dev community?
@@ -38,7 +44,7 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 * Blurred inventory background
 * Elements of NoPixel 3.5 design ideas interwoven
 
-# Edits By @Steffe#9910
+# Edits By @SteffePhone#6948
 
 * Added player own ped to inv
 * Edited .css a lot.
@@ -58,4 +64,4 @@ Updates coming..
 * ihyajb (Aj) for [original version](https://github.com/ihyajb/aj-inventory)
 
 # Issues and Suggestions
-Dm me on discord @Steffe#9910
+Dm me on discord @SteffePhone#6948
